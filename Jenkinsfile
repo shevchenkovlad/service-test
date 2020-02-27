@@ -1,2 +1,2 @@
-@Library("forex_jenkins") _
+@Library("jenkins-lib") _
 gradleServicePipeline()
